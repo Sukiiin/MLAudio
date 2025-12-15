@@ -9,7 +9,7 @@ import tempfile
 # -------------------- PAGE CONFIG --------------------
 
 st.set_page_config(
-    page_title="PhishWhisperer – Audio Phishing Detection",
+    page_title="Voice Watch – Audio Phishing Detection",
     layout="centered"
 )
 
