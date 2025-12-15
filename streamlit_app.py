@@ -67,7 +67,7 @@ def detect_keywords(transcript):
 
 # -------------------- UI --------------------
 
-st.title("🛡️ PhishWhisperer")
+st.title("🛡️ Voice Watch")
 st.caption("AI-Powered Audio Phishing (Vishing) Detection")
 
 uploaded_files = st.file_uploader(
